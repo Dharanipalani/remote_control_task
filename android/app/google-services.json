@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795525983692",
+    "project_id": "lionsremote-c50db",
+    "storage_bucket": "lionsremote-c50db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795525983692:android:f322ddefc6686dd6014169",
+        "android_client_info": {
+          "package_name": "com.example.remote_control_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795525983692-mpf0njnuok895ngna9h0ot8ilo7bruqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYmaDVkR742A7vBy6Re6slYKkbWtg-CaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795525983692-mpf0njnuok895ngna9h0ot8ilo7bruqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
